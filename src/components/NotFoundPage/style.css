@@ -1,0 +1,22 @@
+.not-found {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.not-found a {
+    margin: 25px 0 0 0;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.not-found a:hover {
+    text-decoration: underline;
+}
